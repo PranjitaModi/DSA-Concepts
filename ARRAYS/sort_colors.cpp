@@ -24,3 +24,18 @@ public:
         while(count2--) nums[index++]=2;
     }
 };
+
+
+
+
+/*
+ Index-based loop
+for(int i = 0; i < nums.size(); i++)
+
+ i = index
+
+Range-based loop
+for(int i : nums)
+
+ i = element/value
+  */
