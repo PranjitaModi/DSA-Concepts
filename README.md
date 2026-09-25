@@ -8,7 +8,7 @@ This repository contains solutions to commonly asked coding interview problems c
 
 ## 📂 Topics Covered
 
-- 📚 Arrayss
+- 📚 Arrays
 - 🔍 Binary Search
 - 🔗 Linked List
 - 🔁 Recursion
