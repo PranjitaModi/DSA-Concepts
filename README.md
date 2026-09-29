@@ -10,7 +10,7 @@ This repository contains solutions to commonly asked coding interview problems c
 
 - 📚 Arrays
 - 🔍 Binary Search
-- 🔗 Linked Lists
+- 🔗 Linked List
 - 🔁 Recursion
 - 🪟 Sliding Window & Two Pointers
 - 📦 Stacks
